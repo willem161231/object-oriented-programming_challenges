@@ -4,7 +4,6 @@ Let's consider a classic game, Tetris, in terms of OOP. We start off by describi
 
 Tetris consists of a random sequence of Tetrominos fall down a playing field. The objective of the game is to manipulate these Tetrominos, by moving each one sideways and rotating it by 90 degree units, with the aim of creating a horizontal line of ten blocks without gaps.
 
-![tetris][tetris]
 In Tetris, really the only object is a Tetromino. It has states of:
 
 * rotation (in 90 degree units)
@@ -14,5 +13,3 @@ In Tetris, really the only object is a Tetromino. It has states of:
     * falling
     * moving (sideways)
     * rotating
-
-[tetris]: https://cdn.tutsplus.com/gamedev/authors/legacy/Steven%20Lambert/2012/10/28/tetris.gif "Tetris"
