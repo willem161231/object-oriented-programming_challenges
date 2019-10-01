@@ -15,4 +15,4 @@ In Tetris, really the only object is a Tetromino. It has states of:
     * moving (sideways)
     * rotating
 
-[tetris]: https://cdn.tutsplus.com/gamedev/authors/legacy/Steven%20Lambert/2012/10/28/tetris.png
+[tetris]: https://cdn.tutsplus.com/gamedev/authors/legacy/Steven%20Lambert/2012/10/28/tetris.png "Tetris"
