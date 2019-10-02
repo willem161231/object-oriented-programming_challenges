@@ -22,3 +22,17 @@ class Tetronimo:
         self.rotation = rotation
         self.shape = shape
         self.color = color
+class Shapes:
+
+    def __init__(self,length, width, color):
+        self.length = length
+        self.width = width
+        self.color = color
+
+    def shapegenerator(self):
+        return True
+
+    thepurpleone = shape("thepurpleone")
+    print(thepurpleone.shapegenerator())
+    theredone = shape("theredone")
+    print(theredone.shapegenerator())
